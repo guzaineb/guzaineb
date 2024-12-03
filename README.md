@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @guzaineb  
+# 👋 Hi, I’m Zaineb Guesmi   
 
 ## About Me  
 - 🎓 **4th-year engineering student** specializing in web development and information systems.  
