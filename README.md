@@ -2,9 +2,6 @@
 
 ## About Me  
 - 🎓 **4th-year engineering student** specializing in web development and information systems.  
-- 👀 Passionate about **developing efficient, secure, and user-friendly applications** while working collaboratively on innovative projects.  
-- 🌍 Actively contributing to projects aligned with the **Sustainable Development Goals (SDGs)**, focusing on **17 (Partnerships), 11 (Sustainable Cities), 8 (Decent Work), and 4 (Quality Education)**.  
-- 💡 Continuously learning and improving my skills through participation in tech communities like **GDG Campus** and collaborations with **IEEE**.  
 
 ## Technologies I Use  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, and Twig  
