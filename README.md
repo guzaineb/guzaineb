@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Zaineb Guesmi   
 
 ## About Me  
-- 🎓 **4th-year engineering student** specializing in web development and information systems.  
+- 🎓 **5th-year engineering student** specializing in web development and information systems.  
 
 ## Technologies I Use  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, and Twig  
