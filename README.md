@@ -4,8 +4,8 @@
 - 🎓 **5th-year engineering student** specializing in web development and information systems.  
 
 ## Technologies I Use  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, and Twig  
-- **Backend:** PHP, Symfony Framework, Spring Boot ,Angular and REST APIs  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Angular , React js   
+- **Backend:** PHP, Symfony Framework, Spring Boot ,.Net , Laravel and REST APIs  
 - **Database Management:** MySQL, PostgreSQL, and stored procedures  
 - **Tools:** Git, GitHub, Docker, and Composer  
 - **Others:** Linux, Shell scripting, and Big Data basics  
